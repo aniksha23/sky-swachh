@@ -1,7 +1,7 @@
 
-  # Interactive UI Design
+  # Bbmp
 
-  This is a code bundle for Interactive UI Design.
+  This is a code for waste management
 
   ## Running the code
 
